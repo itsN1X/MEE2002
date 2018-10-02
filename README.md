@@ -1,0 +1,2 @@
+# MEE2002
+matlab aNALYSIS &amp; ROUGH ta ON sHEAR, bEND &amp; mOMEMT DEVELOPMENT
