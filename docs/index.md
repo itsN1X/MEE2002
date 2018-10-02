@@ -18,3 +18,4 @@ fd11_md.txt	Add files via upload	13 minutes ago
 fd11_results.jpg	Add files via upload	13 minutes ago
 fd11_sheardia.jpg	Add files via upload	13 minutes ago
 ## <https://github.com/itsN1X/MEE2002>
+## <https://itsN1X.github.io/MEE2002>
