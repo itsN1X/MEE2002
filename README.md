@@ -2,6 +2,14 @@
 matlab aNALYSIS &amp; ROUGH ta ON sHEAR, bEND &amp; mOMEMT DEVELOPMENT
 
 ## 14BME0133 / MEE2002 / Docs
+
+#### <https://github.com/itsN1X/MEE2002>
+#### <https://itsN1X.github.io/MEE2002>
+#### <https://14bme0133.github.io/MEE2002>
+
+---
+
+
 ### To read the manual rant :
 Look around this repository for [`fd11.*`](fd11.md).
 ### To download `.m` files :
